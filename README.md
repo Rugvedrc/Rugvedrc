@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 🚀 **Associate Developer Intern** @ Idyllic Services  
-🎓 **B.E. IT** | GEC Chh. Sambhajinagar | **CGPA: 7.27**  
+🎓 **B.E. IT** | GEC Chh. Sambhajinagar | **CGPA: 7.38**  
 📍 **Location:** Chhatrapati Sambhajinagar, Maharashtra  
 💼 **Open to:** Full-time Developer & ML Engineer Roles
 
@@ -27,7 +27,7 @@ class Rugved:
     def __init__(self):
         self.role = "Associate Developer Intern"
         self.company = "Idyllic Services Pvt. Ltd."
-        self.education = "B.E. IT | CGPA: 7.27"
+        self.education = "B.E. IT | CGPA: 7.38"
         self.looking_for = "Full-time opportunities"
         
     def highlights(self):
@@ -352,7 +352,7 @@ graph LR
 
 | 🎯 Degree | 🏫 Institution | 📊 Score | 📅 Year |
 |:---:|:---|:---:|:---:|
-| **B.E. Information Technology** | Government Engineering College, Chh. Sambhajinagar | CGPA: 7.27 | 2022-2026 |
+| **B.E. Information Technology** | Government Engineering College, Chh. Sambhajinagar | CGPA: 7.38 | 2022-2026 |
 | **XII (HSC)** | Mallick Junior College, Chh. Sambhajinagar | 87.17% | 2022 |
 | **X (ICSE)** | Ryan International School, Chh. Sambhajinagar | 81.20% | 2020 |
 
