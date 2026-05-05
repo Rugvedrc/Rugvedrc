@@ -109,7 +109,7 @@ rugved = Rugved()
 **Duration:** Jan 2026 - Present
 
 - 🎯 Developed AI-assisted candidate sourcing pipeline with **36× performance improvement** (6 min → 10 sec)
-- 💰 Reduced LLM token usage by **91%** (~200K → ~5K tokens), significantly lowering costs
+- 💰 Reduced LLM token usage by **99%** (~200K → ~5K tokens), significantly lowering costs
 - ⚙️ Built automated profile extraction, enrichment, and relevance scoring systems
 - 🔧 Optimized workflow through intelligent batching and minimal API calls
 
