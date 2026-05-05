@@ -36,7 +36,7 @@ class Rugved:
             "📄 Research": "IEEE 2026 submission",
             "🏆 Hackathon": "1st Place Winner",
             "📦 Open Source": "PyPI published library",
-            "💰 Cost Savings": "91% LLM token reduction"
+            "💰 Cost Savings": "99% LLM token reduction"
         }
     
     def current_focus(self):
@@ -56,7 +56,7 @@ rugved = Rugved()
 | 🎯 Achievement | 📊 Impact |
 |:---:|:---:|
 | **Performance Optimization** | 36× faster execution |
-| **Cost Reduction** | 91% token savings |
+| **Cost Reduction** | 99% token savings |
 | **ML Accuracy** | 97.18% on medical AI |
 | **User Impact** | 90% manual effort saved |
 | **Research** | IEEE Conference 2026 |
@@ -109,7 +109,7 @@ rugved = Rugved()
 **Duration:** Jan 2026 - Present
 
 - 🎯 Developed AI-assisted candidate sourcing pipeline with **36× performance improvement** (6 min → 10 sec)
-- 💰 Reduced LLM token usage by **91%** (~200K → ~18K tokens), significantly lowering costs
+- 💰 Reduced LLM token usage by **91%** (~200K → ~5K tokens), significantly lowering costs
 - ⚙️ Built automated profile extraction, enrichment, and relevance scoring systems
 - 🔧 Optimized workflow through intelligent batching and minimal API calls
 
@@ -297,7 +297,7 @@ graph LR
     A --> E[Full Stack]
     
     B --> B1[36× Performance]
-    B --> B2[91% Cost Reduction]
+    B --> B2[99% Cost Reduction]
     
     C --> C1[IEEE 2026]
     C --> C2[97.18% Accuracy]
